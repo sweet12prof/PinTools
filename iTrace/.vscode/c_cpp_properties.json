@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "..\\..\\include\\pin;..\\..\\include\\pin\\gen;..\\InstLib;..\\..\\..\\extras\\xed-ia32\\include\\xed;..\\..\\..\\extras\\components\\include;..\\..\\..\\extras\\cxx\\include;..\\..\\..\\extras;..\\..\\..\\extras\\crt\\include;..\\..\\..\\extras\\crt;..\\..\\..\\extras\\crt\\include\\arch-x86;..\\..\\..\\extras\\crt\\include\\kernel\\uapi;..\\..\\..\\extras\\crt\\include\\kernel\\uapi\\asm-x86"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/bin/clang-cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-clang-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
